@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+langchain
+openai
+huggingface_hub
+python-dotenv
+streamlit
+=======
+streamlit
+langchain
+langchain-community
+langchain-core
+cohere==4.37
+python-dotenv
+>>>>>>> c4c0c6ba9aaa5f57438175e45f4e814115eb3d22
